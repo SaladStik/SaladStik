@@ -30,4 +30,4 @@ Here are some of the projects I’ve been working on:
 
 ## 🌱 Always Learning
 I’m always looking for ways to broaden my knowledge and technical abilities. Currently, I’m exploring:
-- 🤖 **Machine Learning** with Python
+- 🤖 **Artificial Intelligence** with Python
