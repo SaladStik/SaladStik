@@ -1,4 +1,4 @@
-# 👨‍💻 Nick Irvine – Software Development Student
+# Nick Irvine – Full Stack Developer & Student
 
 Hi there! I’m a **Software Development Student** passionate about building robust backend systems and exploring modern full-stack development. I enjoy tackling complex problems and creating solutions that scale.
 
@@ -40,17 +40,16 @@ Hi there! I’m a **Software Development Student** passionate about building rob
 
 ## Currently Learning
 
-<p><strong>Backend & Networking:</strong> I am currently learning about the development of a **peer-to-peer chat application**, focusing on the networking requirements to ensure reliable communication, building robust **databases**, and properly **securing user data**.</p>
+<p><strong>Backend & Networking:</strong> I am currently learning about the development of a peer-to-peer chat application, focusing on the networking requirements to ensure reliable communication, building robust databases, and properly securing user data.</p>
 
-<p><strong>Artificial Intelligence:</strong> Expanding my knowledge of **AI concepts and implementations** using **Python and Go** to enhance backend logic and intelligent features.</p>
+<p><strong>Artificial Intelligence:</strong> Expanding my knowledge of AI concepts and implementations using Python and Go to enhance backend logic and intelligent features.</p>
 
-<p><strong>Full-Stack Development:</strong> Improving my skills in **React** for frontend development and integrating it with backend APIs to create fully functional and secure applications.</p>
+<p><strong>Full-Stack Development:</strong> Improving my skills in React for frontend development and integrating it with backend APIs to create fully functional and secure applications.</p>
 
-<p><strong>Secure, Scalable Systems:</strong> Exploring best practices for **secure, scalable backend systems** using **PostgreSQL, SQLite, and MongoDB** to ensure reliability, performance, and data integrity.</p>
+<p><strong>Secure, Scalable Systems:</strong> Exploring best practices for secure, scalable backend systems using PostgreSQL, SQLite, and MongoDB to ensure reliability, performance, and data integrity.</p>
 
 
-## 📫 Connect with Me
+## Connect with Me
 Feel free to reach out:  
-- 🐦 [Twitter](#)  
-- 💼 [LinkedIn](#)  
-- 📧 Email: nick@example.com
+- [LinkedIn](https://www.linkedin.com/in/nicholas-irvine-303ab5284/)
+- Email: placeholder
