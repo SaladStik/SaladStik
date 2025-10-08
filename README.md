@@ -52,4 +52,4 @@ Hi there! I’m a **Software Development Student** passionate about building rob
 ## Connect with Me
 Feel free to reach out:  
 - [LinkedIn](https://www.linkedin.com/in/nicholas-irvine-303ab5284/)
-- Email: placeholder
+- Email: [nick@saladsync.ca](mailto:nick@saladsync.ca)
