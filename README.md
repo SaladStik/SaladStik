@@ -1,55 +1,92 @@
-# Nick Irvine – Full Stack Developer & Student
+# Nick Irvine
 
-Hi there! I’m a **Software Development Student** passionate about building robust backend systems and exploring modern full-stack development. I enjoy tackling complex problems and creating solutions that scale.
+> Full-Stack Developer · Mobile & Backend Engineer · Product Builder
 
----
-
-## 🛠️ Skills
-
-### Frontend
-![Flutter](https://skillicons.dev/icons?i=flutter) 
-![React](https://skillicons.dev/icons?i=react)
-
-### Backend
-![Python](https://skillicons.dev/icons?i=python) 
-![Java](https://skillicons.dev/icons?i=java) 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="45"/>
-![Go](https://skillicons.dev/icons?i=go)
-
-### Databases
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+I build practical, secure, and user-focused software, from mobile apps in Flutter to backend services in Python, Java and Go. I enjoy turning ideas into working products and improving systems for reliability and compliance.
 
 ---
 
-## What I'm Up To
+## Technical Skills
 
-<p> <strong>Education:</strong> I’m a <strong>Software Development Student</strong> currently working as a <strong>software developer</strong>, building a full-stack <strong>peer-to-peer chat application for the dental industry</strong> and a <strong>licensing & management server</strong> to manage application licenses and clients.</p>
+### Tech & Tools
 
-<p> <strong>Skills & Focus:</strong> My strongest language is <strong>Flutter/Dart</strong>, though I also work with <strong>Python, Java, C#, and Go</strong>. I am committed to <strong>refining my skills</strong> to meet project needs, with a strong focus on <strong>self-improvement and continuous learning</strong>.</p>
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,python,java,go,cs" alt="languages" height="50"/>
+	<br/>
+	<img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,postgres,mongodb,sqlite,cloudflare" alt="tools" height="50"/>
+</p>
 
-<p><strong>Collaboration:</strong> I thrive in team environments and enjoy tackling challenging projects that push my technical abilities.</p>
+### Programming Languages
 
+- Python
+- C#
+- Java
+- Go
+- Dart
+- JavaScript / TypeScript
 
-## 📊 GitHub Stats
+### Mobile & Frontend Development
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaladStik&show_icons=true&theme=radical)
+- Flutter (Mobile App Development)
+- Full-Stack Web Development
+- HTML5 & CSS3
+- Responsive Design
+
+### DevOps & Infrastructure
+
+- Docker & Containerization
+- Jenkins (CI/CD Pipelines)
+- Cloudflare (CDN & Hosting)
+- Linux System Administration
+- UniFi Firewalls & Network Security
+- Remote Support Tools
+- Ticketing Systems
+- Workstation & Server Configuration
+
+### Security & Compliance
+
+- HIPAA Compliance & Implementation
+- Secure Messaging Protocols
+- Encryption Standards
+- Patient Data Protection
+
+### Product Development
+
+- 3D Design & Modeling
+- 3D Printing
+- Full Product Development Lifecycle
+- Prototyping
+
+### Professional Skills
+
+- Project Management
+- Technical Support & Troubleshooting
+- Customer Service
+- Scripting & Automation
+- Hardware/Software Quoting & Procurement
 
 ---
 
-## Currently Learning
+## Portfolio
 
-<p><strong>Backend & Networking:</strong> I am currently learning about the development of a peer-to-peer chat application, focusing on the networking requirements to ensure reliable communication, building robust databases, and properly securing user data.</p>
+Check out my portfolio and demos: [saladsync.ca](https://saladsync.ca)
 
-<p><strong>Artificial Intelligence:</strong> Expanding my knowledge of AI concepts and implementations using Python and Go to enhance backend logic and intelligent features.</p>
+---
 
-<p><strong>Full-Stack Development:</strong> Improving my skills in React for frontend development and integrating it with backend APIs to create fully functional and secure applications.</p>
+## Contact
 
-<p><strong>Secure, Scalable Systems:</strong> Exploring best practices for secure, scalable backend systems using PostgreSQL, SQLite, and MongoDB to ensure reliability, performance, and data integrity.</p>
-
-
-## Connect with Me
-Feel free to reach out:  
 - [LinkedIn](https://www.linkedin.com/in/nicholas-irvine-303ab5284/)
-- Email: [nick@saladsync.ca](mailto:nick@saladsync.ca)
+- [Email me](mailto:nick@saladsync.ca)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=SaladStik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaladStik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaladStik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
