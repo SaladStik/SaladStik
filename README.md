@@ -73,13 +73,6 @@ Check out my portfolio and demos: [saladsync.ca](https://saladsync.ca)
 
 ---
 
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/nicholas-irvine-303ab5284/)
-- [Email me](mailto:nick@saladsync.ca)
-
----
-
 ## GitHub Stats
 
 <p align="center">
