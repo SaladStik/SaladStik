@@ -1,81 +1,22 @@
 # Nick Irvine
 
-> Full-Stack Developer · Mobile & Backend Engineer · Product Builder
+> Full-Stack Developer · Maker · Product Builder · Calgary, Canada
 
-I build practical, secure, and user-focused software, from mobile apps in Flutter to backend services in Python, Java and Go. I enjoy turning ideas into working products and improving systems for reliability and compliance.
+I build practical, user-focused software and the hardware to go with it. Most of what I make starts as a problem I ran into myself, whether that is a better way to schedule classes at SAIT, a contact card I can tap onto someone's phone at an event, or a tool that drafts my work updates for me. I like shipping things that people actually use, and I enjoy the full loop from idea to deployed product.
 
----
-
-## Technical Skills
-
-### Tech & Tools
-
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,python,java,go,cs" alt="languages" height="50"/>
-	<br/>
-	<img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,postgres,mongodb,sqlite,cloudflare" alt="tools" height="50"/>
-</p>
-
-### Programming Languages
-
-- Python
-- C#
-- Java
-- Go
-- Dart
-- JavaScript / TypeScript
-
-### Mobile & Frontend Development
-
-- Flutter (Mobile App Development)
-- Full-Stack Web Development
-- HTML5 & CSS3
-- Responsive Design
-
-### DevOps & Infrastructure
-
-- Docker & Containerization
-- Jenkins (CI/CD Pipelines)
-- Cloudflare (CDN & Hosting)
-- Linux System Administration
-- UniFi Firewalls & Network Security
-- Remote Support Tools
-- Ticketing Systems
-- Workstation & Server Configuration
-
-### Security & Compliance
-
-- HIPAA Compliance & Implementation
-- Secure Messaging Protocols
-- Encryption Standards
-- Patient Data Protection
-
-### Product Development
-
-- 3D Design & Modeling
-- 3D Printing
-- Full Product Development Lifecycle
-- Prototyping
-
-### Professional Skills
-
-- Project Management
-- Technical Support & Troubleshooting
-- Customer Service
-- Scripting & Automation
-- Hardware/Software Quoting & Procurement
+When I am not writing code I am usually tinkering with my homelab, designing and 3D printing parts, or picking up whatever new language or framework has caught my attention that week.
 
 ---
 
-## Portfolio
+## What I work on
 
-Check out my portfolio and demos: [saladsync.ca](https://saladsync.ca)
+- Full-stack web and mobile apps, and backends
+- Hardware and software projects, including NFC, 3D printing, and physical product design
+- Homelab, networking, and self-hosting, including UniFi gear and Cloudflare deployments
+- Hackathon builds, where most of my favourite projects start
 
----
+## Get in touch
 
-## GitHub Stats
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=SaladStik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaladStik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
+- Website: [saladsync.ca](https://saladsync.ca)
+- Email: [nick@saladsync.ca](mailto:nick@saladsync.ca)
+- LinkedIn: [nicholas-irvine](https://www.linkedin.com/in/nicholas-irvine-303ab5284/)
